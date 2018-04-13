@@ -29,7 +29,7 @@
 28	    }
 29	 
 30	    if (! flag)
-31	        printf("Key %d was not found!\n", key);
+31	        printf("the Key %d was not found!\n", key);
 32	 
 33	    return 0;   
 34   }	
